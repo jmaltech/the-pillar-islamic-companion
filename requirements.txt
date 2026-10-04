@@ -1,1 +1,4 @@
-customtkinter\ngeopy\nhijridate\nislamic_times\n
+customtkinter
+geopy
+hijridate
+islamic_times
